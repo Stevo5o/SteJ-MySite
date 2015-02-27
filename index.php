@@ -123,9 +123,7 @@
 						<img class="off"  src="images/R-Rubics.png">					  
 					</div>
 				</div>					
-			</div>
-         
-        
+			</div> 
 		</div>	<!-- end wrapper -->	
     </div> <!-- end headerWide -->   
 		<div id="content">
@@ -241,8 +239,7 @@
                     </header>
                     <p>
                        <b>Hi my name is Stephen O'Connor</b><b> I am a Web UI developer. I love programming, SDLC, 3d Art, motion graphics and project management.</b>  I'm a results driven professional who enjoys getting my hands dirty and taking ownership of tasks. I pride myself in having the ability to visualize all the components of a project, break down each element into manageable tasks to complete objectives on time and on budget. With a diverse skill set which includes a mix of both programming and 3d Art.
-                    </p><!-- <p>This website application is built using <a href="https://en.wikipedia.org/wiki/Parallax" class="cv-hover" TARGET="_blank">Parallax</a> effect, HTML5, CSS3, Javascript, JQuery, OO PHP PDO, MySQL, WAMP, <a href="http://azure.microsoft.com/en-us/" class="cv-hover" TARGET="_blank">Windows Azure Cloud</a>, <a href="http://www.gimp.org/" class="cv-hover" TARGET="_blank">Gimp</a> <a href="https://github.com/Stevo5o" class="cv-hover" TARGET="_blank">GIT</a>3dsMAX, Netbeans, and N++.</p>	 -->					
-                  
+                    </p><!-- <p>This website application is built using <a href="https://en.wikipedia.org/wiki/Parallax" class="cv-hover" TARGET="_blank">Parallax</a> effect, HTML5, CSS3, Javascript, JQuery, OO PHP PDO, MySQL, WAMP, <a href="http://azure.microsoft.com/en-us/" class="cv-hover" TARGET="_blank">Windows Azure Cloud</a>, <a href="http://www.gimp.org/" class="cv-hover" TARGET="_blank">Gimp</a> <a href="https://github.com/Stevo5o" class="cv-hover" TARGET="_blank">GIT</a>3dsMAX, Netbeans, and N++.</p>	 -->
                     </article>
                 </div>
             </div>
@@ -304,8 +301,8 @@
      </div> <!-- end content-->
 
 <footer>
-                             <p>Stephen Footer</p>
-                             <p>Stephen Footer</p>
+                             <p>Stefc&lambda;ke 2015</p>
+                            
 
      </footer>
             <div id="parallax-bg1">
@@ -362,7 +359,6 @@
 					<li><a class="next page-learning" href ="#page-learning"><span class="red">Learning</span></a></li> 
 	            </ul>
 	        </div>
-
 	<script src="js/modernizr.custom.37797.js"></script> 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
         <script src="js/web-stephen.jquery-1.6.1.min.js"></script>
