@@ -199,34 +199,52 @@
             <div class="grid3 grid3-pad">
                 <div id="pro1" class="col-1-3 col-pro-1">               
                     <article class="module">
-                        Pie Chart HTML 
+                          <div class="" id="chart1">
+               <h2>Chart 1</h2>
+               <p>Chart type: Pie Chart</p>               
+            </div>
                     </article>
                 </div>
                 <div id="pro2" class="col-1-3 col-pro-2">               
                     <article class="module">
-                        Pie Chart CSS
+                         <div class="" id="chart2">
+               <h2>Chart 2</h2>
+               <p>Chart type: Pie Chart</p>               
+            </div>
                     </article>
                 </div>
                 <div id="pro3" class="col-1-3 col-pro-3">               
                     <article class="module">
-                        Pie Chart JS
+                        <div class="" id="chart3">
+                            <h2>Chart 3</h2>
+                            <p>Chart type: Pie Chart</p>               
+                        </div>
                     </article>
                 </div>               
             </div>               
             <div class="grid3 grid3-pad">
                 <div id="pro4" class="col-1-3 col-pro-4">               
                     <article class="module">
-                        Pie Chart jQuery
+                        <div class="" id="chart4">
+                            <h2>Chart 4</h2>
+                            <p>Chart type: Pie Chart</p> 
+                            </div>    
                     </article>
                 </div>
                 <div id="git1" class="col-1-3 col-git-1">                    
                     <article class="module">
-                        Pie Chart PHP
+                          <div class="" id="chart5">
+                            <h2>Chart 5</h2>
+                            <p>Chart type: Pie Chart</p> 
+                            </div> 
                     </article>
                 </div>
                 <div id="git2" class="col-1-3 col-git-2">                    
                     <article class="module">
-                        Pie Chart SQL
+                          <div class="" id="chart6">
+                            <h2>Chart 6</h2>
+                            <p>Chart type: Pie Chart</p> 
+                            </div> 
                     </article>
                 </div>      
             </div>
