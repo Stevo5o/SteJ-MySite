@@ -291,7 +291,7 @@ img {
 .contactSVG {  
     width: 32%;
      display:block;
-    margin:20% auto; 
+    margin:16% auto; 
    
     z-index: 10;
     max-width:100%;
@@ -302,7 +302,7 @@ img {
     z-index: 10;
     max-width:100%;
     display:block;
-    margin:20% auto;
+    margin:16% auto;
     
 }
 
@@ -321,6 +321,10 @@ a.contactSVG:after {
   left:0;
 }
 
-.module {
-    border:1px solid red;    
+.contactLink {
+    text-align: center;
+    margin-top: -5%;
+    margin-bottom: 12%;
+    max-width: 100%;
+    color:white;
 }

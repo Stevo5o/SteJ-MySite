@@ -152,24 +152,29 @@
         <div id="grid-contact">
             <div class="grid3 grid3-pad">
                 <div id="pro1" class="col-1-3 col-pro-1">
-                    <article class="module">
-             	       <img class="contactSVG" src="images/Open_Envelope_clip_art.svg">
-                        <p class="contactLink"><a href="mailto:stevo.joc@gmail.com">stevo.joc@gmail.com</a>        
-                    </article>
+ <a href="mailto:stevo.joc@gmail.com">
+             	       <img class="contactSVG" src="images/gmail.svg">
+             	    </a>
+                        <p class="contactLink">
+                        <a href="mailto:stevo.joc@gmail.com">stevo.joc@gmail</a>
+                        </p>
+
+
+                    
                 </div>
                 <div id="pro2" class="col-1-3 col-pro-2">               
-                    <article class="module">
-                    <img class="contactSVG" src="images/Linkedin_icon.svg">
-                        <p class="contactLink"><a href="mailto:stevo.joc@gmail.com">stevo.joc@gmail.com</a>	   
-                    </article>
+                    
+                    <a href="https://ie.linkedin.com/in/stejoconnor"><img class="contactSVG" src="images/Linkedin_icon.svg"></a>
+                        <p class="contactLink"><a href="https://ie.linkedin.com/in/stejoconnor">/in/stejoconnor</a>	   </p>
+                   
                 </div>              
             </div>               
             <div class="grid3 grid3-pad">
                 <div id="pro4" class="col-1-3 col-pro-4">               
-                    <article class="module">
-                        <img class="contactSVGOCat" src="images/github.svg">
-                        <p class=""><a href="https://github.com/stevo5o">github.com/stevo5o</a>	 
-                    </article>
+                    
+                        <a href="https://github.com/stevo5o"><img class="contactSVGOCat" src="images/github.svg"></a>
+                        <p class="contactLink"><a href="https://github.com/stevo5o">/stevo5o</a>	 
+                    </p>
                 </div>
                 <div id="git1" class="col-2-1 col-git-1">                    
                     <article class="module">
