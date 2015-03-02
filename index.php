@@ -153,22 +153,22 @@
             <div class="grid3 grid3-pad">
                 <div id="pro1" class="col-1-3 col-pro-1">
                     <article class="module">
-             	                  <img class="contactSVG" src="images/Open_Envelope_clip_art.svg">
-                        <p class=""><a href="mailto:stevo.joc@gmail.com"class="cv-hover">stevo.joc@gmail.com</a>        
+             	       <img class="contactSVG" src="images/Open_Envelope_clip_art.svg">
+                        <p class="contactLink"><a href="mailto:stevo.joc@gmail.com">stevo.joc@gmail.com</a>        
                     </article>
                 </div>
                 <div id="pro2" class="col-1-3 col-pro-2">               
                     <article class="module">
-                    <img class="contactSVG" src="images/Open_Envelope_clip_art.svg">
-                        <p class=""><a href="mailto:stevo.joc@gmail.com"class="cv-hover">stevo.joc@gmail.com</a>	   
+                    <img class="contactSVG" src="images/Linkedin_icon.svg">
+                        <p class="contactLink"><a href="mailto:stevo.joc@gmail.com">stevo.joc@gmail.com</a>	   
                     </article>
                 </div>              
             </div>               
             <div class="grid3 grid3-pad">
                 <div id="pro4" class="col-1-3 col-pro-4">               
                     <article class="module">
-                        <img class="contactSVG" src="images/github.svg">
-                        <p class=""><a href="https://github.com/stevo5o"class="cv-hover">github.com/stevo5o</a>	 
+                        <img class="contactSVGOCat" src="images/github.svg">
+                        <p class=""><a href="https://github.com/stevo5o">github.com/stevo5o</a>	 
                     </article>
                 </div>
                 <div id="git1" class="col-2-1 col-git-1">                    

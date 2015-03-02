@@ -289,12 +289,21 @@ img {
 }
 
 .contactSVG {  
-    width: 35px; 
-    margin: 10px 35%;
+    width: 32%;
+     display:block;
+    margin:20% auto; 
+   
     z-index: 10;
     max-width:100%;
-    
+}
 
+.contactSVGOCat {  
+    width: 36.5%;   
+    z-index: 10;
+    max-width:100%;
+    display:block;
+    margin:20% auto;
+    
 }
 
 a.contactSVG {
@@ -310,5 +319,8 @@ a.contactSVG:after {
   right: 0;
   bottom: 0;
   left:0;
+}
 
+.module {
+    border:1px solid red;    
 }
