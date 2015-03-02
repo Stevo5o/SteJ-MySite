@@ -227,47 +227,59 @@ ul li img {
 }
 .col-git-1 {
     background:yellow;
+    padding:1%;
 }
 .col-git-2 {
     background:yellow;
+    padding:1%;
 }
 .col-git-3 {
     background:blue;
+    padding:1%;
 }
 .col-git-4 {
     background:yellow;
+    padding:1%;
     color:black;
 }
 .col-git-5 {
     background:yellow;
+    padding:1%;
     color:black;
 }
 .col-git-6 {
     background:yellow;
+    padding:1%;
     color:black;
 }
 .col-git-7 {
     background:yellow;
+    padding:1%;
     color:black;
 }
 .col-git-8 {
     background:yellow;
+    padding:1%;
     color:black;
 }
 .col-pro-1 {
     background:red;
+    padding:1%;
     color:black;
 }
 .col-pro-2 {
     background:green;
+    padding:1%;
     color:white;
 }
 .col-pro-3 {
     background:orange;
+    padding:1%;
     color:palegoldenrod;
 }
 .col-pro-4 {
     background:blue;
+    padding:1%;
     color:palegoldenrod;
 }
 
@@ -327,4 +339,8 @@ a.contactSVG:after {
     margin-bottom: 12%;
     max-width: 100%;
     color:white;
+}
+
+.piechart {
+    padding:6%;
 }

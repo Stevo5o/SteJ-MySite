@@ -203,54 +203,26 @@
                             <div id="grid-about">
             <div class="grid3 grid3-pad">
                 <div id="pro1" class="col-1-3 col-pro-1">               
-                    <article class="module">
-                          <div class="" id="chart1">
-               <h2>Chart 1</h2>
-               <p>Chart type: Pie Chart</p>               
-            </div>
-                    </article>
+                   
+            <div class="piechart" id="piechartHTML"></div>
+                  
                 </div>
                 <div id="pro2" class="col-1-3 col-pro-2">               
-                    <article class="module">
-                         <div class="" id="chart2">
-               <h2>Chart 2</h2>
-               <p>Chart type: Pie Chart</p>               
-            </div>
-                    </article>
+<div class="piechart" id="piechartCSS"></div>
                 </div>
                 <div id="pro3" class="col-1-3 col-pro-3">               
-                    <article class="module">
-                        <div class="" id="chart3">
-                            <h2>Chart 3</h2>
-                            <p>Chart type: Pie Chart</p>               
-                        </div>
-                    </article>
+<div class="piechart" id="piechartJS"></div>
                 </div>               
             </div>               
             <div class="grid3 grid3-pad">
                 <div id="pro4" class="col-1-3 col-pro-4">               
-                    <article class="module">
-                        <div class="" id="chart4">
-                            <h2>Chart 4</h2>
-                            <p>Chart type: Pie Chart</p> 
-                            </div>    
-                    </article>
+<div class="piechart" id="piechartJQ"></div>
                 </div>
                 <div id="git1" class="col-1-3 col-git-1">                    
-                    <article class="module">
-                          <div class="" id="chart5">
-                            <h2>Chart 5</h2>
-                            <p>Chart type: Pie Chart</p> 
-                            </div> 
-                    </article>
+<div class="piechart" id="piechartPHP"></div>
                 </div>
                 <div id="git2" class="col-1-3 col-git-2">                    
-                    <article class="module">
-                          <div class="" id="chart6">
-                            <h2>Chart 6</h2>
-                            <p>Chart type: Pie Chart</p> 
-                            </div> 
-                    </article>
+    <div class="piechart" id="piechartSQL"></div>
                 </div>      
             </div>
             <div class="grid3 grid3-pad">
@@ -386,6 +358,9 @@
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
         <script src="js/web-stephen.jquery-1.6.1.min.js"></script>
         <script src="js/sweetalert/sweet-alert.min.js" type="text/javascript"></script>
+        
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <script src="js/chart.js" type="text/javascript"></script>
         <script src="script.js" type="text/javascript"></script>
     </body>
 </html>
