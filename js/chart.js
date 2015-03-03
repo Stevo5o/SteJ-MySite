@@ -3,16 +3,16 @@ var width = 400,
         height = 400;
 radius = 200,
         colorsHTML = d3.scale.ordinal()
-        .range(['#259286','#738A05']);
+        .range(['#259286','#FED200']);
 
 var piedata = [
    {
       label: "",
-      value: 10
+      value: 20
    },
    {
       label: "HTML",
-      value: 150
+      value: 80
    }
 ];
 
@@ -67,11 +67,11 @@ var text = d3.selectAll('g.slice')
 var piedata = [
    {
       label: "",
-      value: 10
+      value: 20
    },
    {
       label: "CSS",
-      value: 150
+      value: 80
    }
 ];
 
@@ -247,11 +247,11 @@ var text = d3.selectAll('g.slice')
 var piedata = [
    {
       label: "",
-      value: 50
+      value: 55
    },
    {
       label: "PHP",
-      value: 110
+      value: 45
    }
 ];
 
@@ -305,15 +305,15 @@ var text = d3.selectAll('g.slice')
 // SQL
 
      var colorsCSS = d3.scale.ordinal()
-        .range(['#259286','#738A05']);
+        .range(['#259286','#FED200']);
 var piedata = [
    {
       label: "",
-      value: 50
+      value: 65
    },
    {
       label: "SQL",
-      value: 110
+      value: 35
    }
 ];
 
@@ -353,7 +353,7 @@ var text = d3.selectAll('g.slice')
   return d.data.label;
 })
 .attr('text-anchor', 'middle')
-.attr('fill', 'white')
+.attr('fill', '#259286')
 .attr("font-size", "30px")
 .attr('transform', function(d)
 {
