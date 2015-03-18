@@ -155,12 +155,9 @@
  <a href="mailto:stevo.joc@gmail.com">
              	       <img class="contactSVG" src="images/gmail.svg">
              	    </a>
-                        <p class="contactLink">
+                      <p class="contactLink">
                         <a href="mailto:stevo.joc@gmail.com">stevo.joc@gmail</a>
-                        </p>
-
-
-                    
+                     </p>
                 </div>
                 <div id="pro2" class="col-1-3 col-pro-2">               
                     
